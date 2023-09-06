@@ -25,5 +25,8 @@ Alt +Insert   place the corsor is required position and to generate setter gette
 Ctrl + O	to override a method  (or) code -> override
 
 to copy a block of code/method  close the node , copy that node and paste it
-to change the methoad name or anything across that pasted node , just select that node , right click -> Find -> replace
+to change the methoad name or anything across that pasted node , just select that node , Edit -> Find -> replace  (or) Ctrl +R
+
+
+for rename Shift +f6  (Or) select the value, right click -> refactor-> rename
 
