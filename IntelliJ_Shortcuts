@@ -1,0 +1,29 @@
+ctrl+alt+s		settings
+sout		for sysout
+psvm		for main method
+ctrl+d		to duplicate a line
+ctrl+y       to delete a the cursor line
+Alt+Ctrl+L		to format selected lines
+Alt+Ctrl+Shift+L   to format complete file
+Ctrl + /	line comment
+Ctrl + Shift+ / 	block comment
+
+To compare the files on the changes with other file -> select the file for which you have to check ,
+then right click on the file and select  'Compare with' option and select the file with which you want to compare with.  
+the original file is on the left and the file u want to compare with is on the right side.
+
+
+To compare the files on the changes with history -> select the file for which you have to check , 
+then right click on the file and select 'Local History' -> 'Show History' , this will open a new panel. 
+current version of right and the time frame changes on Left and u can check all different time frames.  
+now we can revert specified one or if you want revert completely to the specified time frame, 
+select the time frame you want to revert with and right click and select option 'Revert'.
+
+
+Alt +Insert   place the corsor is required position and to generate setter getter constructor (or) code -> generate
+
+Ctrl + O	to override a method  (or) code -> override
+
+to copy a block of code/method  close the node , copy that node and paste it
+to change the methoad name or anything across that pasted node , just select that node , right click -> Find -> replace
+
